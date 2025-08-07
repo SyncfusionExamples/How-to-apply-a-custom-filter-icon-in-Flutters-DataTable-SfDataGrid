@@ -1,2 +1,2 @@
-# How-to-apply-a-custom-filter-icon-in-Flutter-s-DataTable-SfDataGrid
+# How-to-apply-a-custom-filter-icon-in-Flutters-DataTable-SfDataGrid
 This demo shows how to apply a custom filter icon in Flutter's DataTable (SfDataGrid).
